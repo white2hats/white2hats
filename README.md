@@ -15,7 +15,7 @@
   <a href="https://discord.com/users/whitex0424" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/@SEU_CANAL" target="_blank">
+  <a href="https://youtube.com/@White-Hats" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </div>

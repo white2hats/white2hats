@@ -22,7 +22,6 @@
 
 <br>
 
-<!-- GitHub Stats + Top Langs -->
 <table>
   <tr>
     <td align="center">
@@ -36,9 +35,6 @@
 
 <br>
 
-<br><br>
-
-<!-- Sobre Mim -->
 <p style="max-width:700px;margin:0 auto 15px;font-size:15px;line-height:1.5">
   <strong>HyperApps</strong> • Bots → Full Stack<br>
   Automação inteligente é minha paixão
@@ -51,7 +47,6 @@
 
 <br>
 
-<!-- Ícones de Tech -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,python,fastify,docker,nginx,html,css,csharp,cpp,git,github,discord,linux&perline=8&theme=dark"/>
 </div>

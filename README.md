@@ -36,11 +36,6 @@
 
 <br>
 
-<!-- Streak -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=white2hats&theme=dracula&hide_border=true&fire=ff6bcb&ring=ff6bcb&currStreakLabel=ff6bcb" width="600"/>
-</div>
-
 <br><br>
 
 <!-- Sobre Mim -->

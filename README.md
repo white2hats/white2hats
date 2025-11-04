@@ -1,13 +1,11 @@
 <div align="center">
 
-<!-- Avatar -->
 <img src="https://avatars.githubusercontent.com/u/141103277?v=4" width="160" alt="Pedro Henrique" style="border-radius:50%; border:5px solid #ff6bcb; box-shadow:0 0 15px rgba(255,107,203,.6);margin-bottom:15px">
 
 <h1>Olá, sou Pedro Henrique</h1>
 <p><strong>Full Stack • Bots • APIs • Web</strong></p>
 <p>4 anos de código em ação</p>
 
-<!-- Badges Sociais -->
 <div style="margin:20px 0">
   <a href="https://whitex-portfolio.netlify.app/#inicio" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>

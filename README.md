@@ -7,7 +7,7 @@
 <p><strong>Full Stack • Bots • APIs • Web</strong></p>
 <p>4 anos de código em ação</p>
 
-<!-- Badges -->
+<!-- Badges Sociais -->
 <div style="margin:20px 0">
   <a href="https://whitex-portfolio.netlify.app/#inicio" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -43,11 +43,9 @@
 
 <br><br>
 
-<!-- ESTATÍSTICAS COM GRÁFICO (CARDS VISUAIS) -->
-<h2>Estatísticas (Gráfico)</h2>
+<!-- Cards de Estatísticas (sem título) -->
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:18px;max-width:800px;margin:0 auto">
 
-  <!-- Anos -->
   <div style="background:#1a1a1a;padding:18px;border-radius:14px;text-align:center;border:1px solid #333">
     <p style="margin:0 0 8px;font-size:14px;color:#ccc">Anos de Experiência</p>
     <div style="height:16px;background:#333;border-radius:8px;overflow:hidden">
@@ -56,7 +54,6 @@
     <p style="margin:10px 0 0;font-size:22px;font-weight:bold;color:#ff6bcb">4+</p>
   </div>
 
-  <!-- Projetos -->
   <div style="background:#1a1a1a;padding:18px;border-radius:14px;text-align:center;border:1px solid #333">
     <p style="margin:0 0 8px;font-size:14px;color:#ccc">Projetos Concluídos</p>
     <div style="height:16px;background:#333;border-radius:8px;overflow:hidden">
@@ -65,7 +62,6 @@
     <p style="margin:10px 0 0;font-size:22px;font-weight:bold;color:#00ff88">170+</p>
   </div>
 
-  <!-- Dedicação -->
   <div style="background:#1a1a1a;padding:18px;border-radius:14px;text-align:center;border:1px solid #333">
     <p style="margin:0 0 8px;font-size:14px;color:#ccc">Dedicação</p>
     <div style="height:16px;background:#333;border-radius:8px;overflow:hidden">
@@ -78,11 +74,9 @@
 
 <br><br>
 
-<!-- SKILLS COM GRÁFICO (BARRAS VISUAIS) -->
-<h2>Minhas Skills (Gráfico)</h2>
+<!-- Skills (sem título) -->
 <div style="max-width:800px;margin:0 auto;display:grid;gap:16px">
 
-  <!-- Node.js -->
   <div style="display:flex;align-items:center;gap:12px;background:#1a1a1a;padding:14px;border-radius:12px;border:1px solid #333">
     <strong style="min-width:110px;font-size:15px;color:#fff">Node.js</strong>
     <div style="flex:1;height:16px;background:#333;border-radius:8px;overflow:hidden">
@@ -91,7 +85,6 @@
     <code style="font-size:16px;color:#00ff88">95%</code>
   </div>
 
-  <!-- Express -->
   <div style="display:flex;align-items:center;gap:12px;background:#1a1a1a;padding:14px;border-radius:12px;border:1px solid #333">
     <strong style="min-width:110px;font-size:15px;color:#fff">Express</strong>
     <div style="flex:1;height:16px;background:#333;border-radius:8px;overflow:hidden">
@@ -100,7 +93,6 @@
     <code style="font-size:16px;color:#00ff88">90%</code>
   </div>
 
-  <!-- JavaScript -->
   <div style="display:flex;align-items:center;gap:12px;background:#1a1a1a;padding:14px;border-radius:12px;border:1px solid #333">
     <strong style="min-width:110px;font-size:15px;color:#fff">JavaScript</strong>
     <div style="flex:1;height:16px;background:#333;border-radius:8px;overflow:hidden">
@@ -109,7 +101,6 @@
     <code style="font-size:16px;color:#ffd700">80%</code>
   </div>
 
-  <!-- Python -->
   <div style="display:flex;align-items:center;gap:12px;background:#1a1a1a;padding:14px;border-radius:12px;border:1px solid #333">
     <strong style="min-width:110px;font-size:15px;color:#fff">Python</strong>
     <div style="flex:1;height:16px;background:#333;border-radius:8px;overflow:hidden">
@@ -118,7 +109,6 @@
     <code style="font-size:16px;color:#4fc3f7">70%</code>
   </div>
 
-  <!-- Fastify -->
   <div style="display:flex;align-items:center;gap:12px;background:#1a1a1a;padding:14px;border-radius:12px;border:1px solid #333">
     <strong style="min-width:110px;font-size:15px;color:#fff">Fastify</strong>
     <div style="flex:1;height:16px;background:#333;border-radius:8px;overflow:hidden">
@@ -127,7 +117,6 @@
     <code style="font-size:16px;color:#ff8a80">50%</code>
   </div>
 
-  <!-- TypeScript -->
   <div style="display:flex;align-items:center;gap:12px;background:#1a1a1a;padding:14px;border-radius:12px;border:1px solid #333">
     <strong style="min-width:110px;font-size:15px;color:#fff">TypeScript</strong>
     <div style="flex:1;height:16px;background:#333;border-radius:8px;overflow:hidden">
@@ -140,8 +129,7 @@
 
 <br><br>
 
-<!-- Sobre Mim -->
-<h2>Sobre Mim</h2>
+<!-- Sobre Mim (sem título) -->
 <p style="max-width:700px;margin:0 auto 15px;font-size:15px;line-height:1.5">
   <strong>HyperApps</strong> • Bots → Full Stack<br>
   Automação inteligente é minha paixão
@@ -160,8 +148,5 @@
 </div>
 
 <br>
-
-<!-- Visitas -->
-<img src="https://komarev.com/ghpvc/?username=white2hats&color=ff6bcb&style=flat-square&label=Visitas+no+perfil"/>
 
 </div>

@@ -1,123 +1,139 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/YOUR-ANIME-IMAGE-HERE" width="180" alt="Pedro Henrique" style="border-radius:50%; border: 4px solid #ff6bcb;"/>
+  <img src="https://avatars.githubusercontent.com/u/141103277?v=4" width="170" alt="Pedro Henrique" style="border-radius:50%; border: 5px solid #ff6bcb; box-shadow: 0 0 15px rgba(255,107,203,0.5);"/>
+  
   <h1>👋 Olá, eu sou Pedro Henrique</h1>
   <p><strong>Desenvolvedor Full Stack</strong> • Bots Discord, APIs & Web</p>
   <p>4 anos transformando ideias em código 🚀</p>
 
-  <div>
+  <div style="margin: 20px 0;">
     <a href="https://whitex-portfolio.netlify.app/#inicio" target="_blank">
       <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
     </a>
     <a href="https://discord.com/users/whitex0424" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
-    <a href="mailto:seuemail@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <a href="https://youtube.com/@SEU_CANAL" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
     </a>
   </div>
 
   <br>
 
-  <!-- GitHub Stats -->
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SEU_USUARIO&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  <!-- GitHub Stats + Linguagens -->
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=white2hats&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=white2hats&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex" alt="Top Languages" height="180"/>
   </div>
 
   <br>
 
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dracula&hide_border=true" alt="GitHub Streak" width="600"/>
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=white2hats&theme=dracula&hide_border=true&fire=ff6bcb&ring=ff6bcb&currStreakLabel=ff6bcb" alt="Streak" width="600"/>
 
   <br><br>
 
   ## 💡 Sobre Mim
-  <p align="left">
-    Desenvolvedor na equipe <strong>HyperApps</strong>, especializado em criar soluções eficientes para <strong>Discord, APIs e Web</strong>.<br>
+  <p align="left" style="max-width: 700px; margin: 0 auto; text-align: center;">
+    Desenvolvedor na equipe <strong>HyperApps</strong>, especializado em soluções eficientes para <strong>Discord, APIs e Web</strong>.<br>
     Iniciei com <strong>Bots</strong> e evoluí para <strong>back-end completo</strong>, consolidando-me como <strong>full-stack</strong>.
   </p>
 
-  <details>
-    <summary><strong>🎯 Missão, Objetivo & Paixão</strong></summary>
+  <details style="max-width: 700px; margin: 15px auto;">
+    <summary><strong>🎯 Missão & Objetivo</strong></summary>
     <br>
     <strong>Missão:</strong> Criar soluções eficientes que transformam ideias em realidade<br>
-    <strong>Objetivo:</strong> Evoluir constantemente e oferecer o melhor aos clientes<br>
+    <strong>Objetivo:</strong> Evoluir constantemente e entregar o melhor aos clientes<br>
     <strong>Paixão:</strong> Desenvolvimento full-stack e automação inteligente
   </details>
 
   <br>
 
   ## 🏆 Estatísticas
-  | Descrição | Valor |
-  |-----------|-------|
-  | Anos de Experiência | 4+ |
-  | Projetos Concluídos | 170+ |
-  | Dedicação | 100% |
-
-  <br>
-
-  ## 🛠️ Minhas Skills
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px;">
-    <div><strong>Node.js</strong> <code>Avançado</code> <meter value="95" min="0" max="100"></meter> 95%</div>
-    <div><strong>Express</strong> <code>Avançado</code> <meter value="90" min="0" max="100"></meter> 90%</div>
-    <div><strong>JavaScript</strong> <code>Avançado</code> <meter value="80" min="0" max="100"></meter> 80%</div>
-    <div><strong>Python</strong> <code>Intermediário</code> <meter value="70" min="0" max="100"></meter> 70%</div>
-    <div><strong>Fastify</strong> <code>Aprendendo</code> <meter value="50" min="0" max="100"></meter> 50%</div>
-    <div><strong>TypeScript</strong> <code>Aprendendo</code> <meter value="40" min="0" max="100"></meter> 40%</div>
-  </div>
-
-  <br>
-
-  ## 🎮 Meus Hobbies
-  <table>
+  <table align="center">
     <tr>
-      <td><strong>Counter-Strike 2</strong></td>
-      <td>FPS tático competitivo</td>
-      <td><code>🎮 Jogando</code></td>
+      <td><strong>Anos de Experiência</strong></td>
+      <td><code>4+</code></td>
     </tr>
     <tr>
-      <td><strong>Valorant</strong></td>
-      <td>Shooter tático com habilidades</td>
-      <td><code>🎮 Jogando</code></td>
+      <td><strong>Projetos Concluídos</strong></td>
+      <td><code>170+</code></td>
     </tr>
     <tr>
-      <td><strong>Hollow Knight: Silksong</strong></td>
-      <td>Metroidvania desafiador</td>
-      <td><code>⏳ Aguardando</code></td>
-    </tr>
-    <tr>
-      <td><strong>Minecraft</strong></td>
-      <td>Construção e exploração</td>
-      <td><code>🎮 Jogando</code></td>
+      <td><strong>Dedicação</strong></td>
+      <td><code>100%</code></td>
     </tr>
   </table>
 
   <br>
 
+  ## 🛠️ Minhas Skills
+  <div style="max-width: 700px; margin: 0 auto; display: grid; gap: 12px; font-family: 'Segoe UI', sans-serif;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <strong style="min-width: 110px;">Node.js</strong>
+      <div style="flex: 1; background: #333; border-radius: 8px; overflow: hidden; height: 10px;">
+        <div style="width: 95%; height: 100%; background: linear-gradient(90deg, #00ff88, #00cc66); border-radius: 8px;"></div>
+      </div>
+      <code>95%</code>
+    </div>
+
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <strong style="min-width: 110px;">Express</strong>
+      <div style="flex: 1; background: #333; border-radius: 8px; overflow: hidden; height: 10px;">
+        <div style="width: 90%; height: 100%; background: linear-gradient(90deg, #00ff88, #00cc66); border-radius: 8px;"></div>
+      </div>
+      <code>90%</code>
+    </div>
+
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <strong style="min-width: 110px;">JavaScript</strong>
+      <div style="flex: 1; background: #333; border-radius: 8px; overflow: hidden; height: 10px;">
+        <div style="width: 80%; height: 100%; background: linear-gradient(90deg, #ffd700, #ffaa00); border-radius: 8px;"></div>
+      </div>
+      <code>80%</code>
+    </div>
+
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <strong style="min-width: 110px;">Python</strong>
+      <div style="flex: 1; background: #333; border-radius: 8px; overflow: hidden; height: 10px;">
+        <div style="width: 70%; height: 100%; background: linear-gradient(90deg, #4fc3f7, #0299d4); border-radius: 8px;"></div>
+      </div>
+      <code>70%</code>
+    </div>
+
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <strong style="min-width: 110px;">Fastify</strong>
+      <div style="flex: 1; background: #333; border-radius: 8px; overflow: hidden; height: 10px;">
+        <div style="width: 50%; height: 100%; background: linear-gradient(90deg, #ff8a80, #ff5252); border-radius: 8px;"></div>
+      </div>
+      <code>50%</code>
+    </div>
+
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <strong style="min-width: 110px;">TypeScript</strong>
+      <div style="flex: 1; background: #333; border-radius: 8px; overflow: hidden; height: 10px;">
+        <div style="width: 40%; height: 100%; background: linear-gradient(90deg, #ba68c8, #9c27b0); border-radius: 8px;"></div>
+      </div>
+      <code>40%</code>
+    </div>
+  </div>
+
+  <br>
+
   ## 📌 Objetivo
-  <p align="center">
-    <strong>Transformar ideias em projetos reais, com eficiência, qualidade e inovação.</strong><br>
-    Sempre buscando evolução e aprendizado contínuo no desenvolvimento full-stack e automação inteligente.
+  <p align="center" style="max-width: 700px; margin: 0 auto; font-style: italic;">
+    <strong>Transformar ideias em projetos reais com eficiência, qualidade e inovação.</strong><br>
+    Sempre em evolução no desenvolvimento full-stack e automação inteligente.
   </p>
 
   <br>
 
   <!-- Tecnologias -->
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,python,fastify,docker,nginx,html,css,csharp,cpp,git,github,discord,linux" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,python,fastify,docker,nginx,html,css,csharp,cpp,git,github,discord,linux&perline=8" />
   </div>
 
   <br>
 
-  <!-- Social -->
-  <div align="center">
-    <a href="https://youtube.com/@seucanal"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-    <a href="https://instagram.com/seuuser"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="https://twitch.tv/seuuser"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-    <a href="https://linkedin.com/in/seuuser"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  </div>
-
-  <br>
-
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=ff6bcb&style=flat-square" alt="Profile Views"/>
+  <!-- Visitas -->
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=ff6bcb&style=flat-square&label=Visitas+no+perfil" alt="Profile Views"/>
 </div>
